@@ -76,3 +76,8 @@ https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png
     <img src="./assets/undraw_all-the-data_ijgn.svg" class="about-me__img" alt="undraw icon">
     
     <img src="./assets/undraw_static-assets_di5m.svg" class="language__img"alt="undraw icon">
+
+
+<span>Spans by default have a "display: in-line"</span>
+You cannot actually rotate in-line elements,
+to fix this you need to add a "display: inline-block" in the 
